@@ -1,3 +1,11 @@
+# Licenses
+
+## blog posts
+
+Copyright (c) 2014 Andy Lindeman. All rights reserved.
+
+## minimal-mistakes jekyll theme
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Michael Rose
