@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "rspec-rails and capybara 2.0: what you need to know"
+comments: true
 ---
 
 ### Background

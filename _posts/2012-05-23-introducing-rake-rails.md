@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Introducing rake-rails"
+comments: true
 ---
+
 [JRubyConf](http://jrubyconf.com) 2012 was a blast. Thanks
 [Nick](http://blog.nicksieger.com/) and all the others who made it happen.
 

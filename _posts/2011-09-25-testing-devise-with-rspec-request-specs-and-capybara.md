@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Testing Devise with RSpec Request Specs and Capybara
+comments: true
 ---
 
 Many questions about testing Devise come up regularly in the [freenode/#rspec](irc://irc.freenode.net/rspec) 

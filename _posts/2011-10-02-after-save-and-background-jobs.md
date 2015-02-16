@@ -1,6 +1,7 @@
 ---
 title: Callbacks and Background Jobs
 layout: post
+comments: true
 ---
 
 **TL;DR**: Don't use `after_{create,update,save}` to enqueue a background

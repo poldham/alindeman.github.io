@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Porting `iterate` to Ruby"
+comments: true
 ---
 
 I originally posted this as an email to the [Ruby
