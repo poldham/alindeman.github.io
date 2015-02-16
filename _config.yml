@@ -1,14 +1,13 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
-
+title: Andy Lindeman
+locale: en_US
+url: #http://andylindeman.com
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
-markdown:    kramdown
+permalink: /:title/
+markdown: kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -23,15 +22,14 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Andy Lindeman
+  avatar: http://www.gravatar.com/avatar/04ec66ce302551a608ec3a0451cfa1f2.png?s=400
+  bio: "software development, tech operations, etc."
   email: 
   disqus-shortname: 
-  twitter: #username
+  twitter: alindeman
   facebook: #username
   google:
     plus: #username
@@ -40,9 +38,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: alindeman
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: andylindeman
   instagram: #username
   lastfm: #username
   tumblr: #username
