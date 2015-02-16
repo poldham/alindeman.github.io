@@ -33,8 +33,8 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
+    analytics: "UA-2167859-1"
+    verify: "FwYB-1Ko_yCfk1ZQataSZW-rzeMO5kbb9jOgNNdlnBE"
     ad-client: 
     ad-slot: 
   bing-verify: 
