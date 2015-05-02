@@ -2,6 +2,7 @@
 layout: post
 title: "Introducing rake-rails"
 comments: true
+redirect_from: "/2012/05/23/introducing-rake-rails.html"
 ---
 
 [JRubyConf](http://jrubyconf.com) 2012 was a blast. Thanks

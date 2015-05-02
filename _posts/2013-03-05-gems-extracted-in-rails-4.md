@@ -2,6 +2,7 @@
 layout: post
 title: "Upgrading Rails: Gems Extracted in Rails 4"
 comments: true
+redirect_from: "/2013/03/05/gems-extracted-in-rails-4.html"
 ---
 
 During the development of Rails 4, many features that were present in earlier

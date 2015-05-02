@@ -2,6 +2,7 @@
 layout: post
 title: "Decoding Rails Session Cookies"
 comments: true
+redirect_from: "/2013/02/18/decoding-rails-session-cookies.html"
 ---
 
 An [Upgrading to Rails 4](http://www.upgradingtorails4.com/) reader emailed me

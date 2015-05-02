@@ -2,6 +2,7 @@
 layout: post
 title: "rspec-rails and capybara 2.0: what you need to know"
 comments: true
+redirect_from: "/2012/11/11/rspec-rails-and-capybara-2.0-what-you-need-to-know.html"
 ---
 
 ### Background

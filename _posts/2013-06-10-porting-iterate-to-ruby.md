@@ -2,6 +2,7 @@
 layout: post
 title: "Porting `iterate` to Ruby"
 comments: true
+redirect_from: "/2013/06/10/porting-iterate-to-ruby.html"
 ---
 
 I originally posted this as an email to the [Ruby

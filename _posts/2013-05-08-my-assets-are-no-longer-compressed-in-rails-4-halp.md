@@ -2,6 +2,7 @@
 layout: post
 title: "My Assets Are No Longer Minified in Rails 4: HALP!"
 comments: true
+redirect_from: "/2013/05/08/my-assets-are-no-longer-compressed-in-rails-4-halp.html"
 ---
 
 Rails 4.0 and sprockets no longer heed the `config.assets.compress` directive.

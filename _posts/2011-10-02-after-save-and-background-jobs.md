@@ -2,6 +2,7 @@
 title: Callbacks and Background Jobs
 layout: post
 comments: true
+redirect_from: "/2011/10/02/after-save-and-background-jobs.html"
 ---
 
 **TL;DR**: Don't use `after_{create,update,save}` to enqueue a background
